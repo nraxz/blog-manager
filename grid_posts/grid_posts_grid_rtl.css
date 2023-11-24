@@ -1,0 +1,10 @@
+.css_id_label, .css_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line, .css_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_title_label, .css_title_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_title_grid_line, .css_title_grid_line:hover {vertical-align: top;text-align: right;}
+.css_meta_label, .css_meta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_meta_grid_line, .css_meta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_published_label, .css_published_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_published_grid_line, .css_published_grid_line:hover {vertical-align: top;text-align: right;}
+.css_link_label, .css_link_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_link_grid_line, .css_link_grid_line:hover {vertical-align: top;text-align: right;}
