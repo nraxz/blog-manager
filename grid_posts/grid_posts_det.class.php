@@ -322,7 +322,7 @@ class grid_posts_det
        $nm_saida->saida(" <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0\" />\r\n");
    }
 
-           $nm_saida->saida("   <script type=\"text/javascript\" src=\"grid_posts_jquery_7474.js\"></script>\r\n");
+           $nm_saida->saida("   <script type=\"text/javascript\" src=\"grid_posts_jquery_9813.js\"></script>\r\n");
            $nm_saida->saida("   <script type=\"text/javascript\" src=\"grid_posts_ajax.js\"></script>\r\n");
            $nm_saida->saida("   <script type=\"text/javascript\" src=\"grid_posts_message.js\"></script>\r\n");
            $nm_saida->saida("   <script type=\"text/javascript\">\r\n");
